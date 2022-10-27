@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T02:46:50.202Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="20.4.1" etag="dCJOu7W-PUmKIfw6tvgq" type="github"><diagram id="P13tcbiKdv1iRTdMbfQo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-27T07:18:40.684Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ou7x9tZuNxuK8jbZw3Ja" version="20.4.1" type="github">
+  <diagram id="P13tcbiKdv1iRTdMbfQo" name="第 1 页">
+    <mxGraphModel dx="595" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-67" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-1094" width="500" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-66" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-364" width="500" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-57" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-734" width="500" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-20" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-724" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-26" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-1084" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-354" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-38" target="1fJOVmRQjtJDMx7JwJmx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-45" value="根据客户端frpc.ini配置文件的配置，转发请求到对应的client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#4277BB;" vertex="1" connectable="0" parent="1fJOVmRQjtJDMx7JwJmx-43">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#4277BB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-38" target="1fJOVmRQjtJDMx7JwJmx-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="-344" />
+              <mxPoint x="1060" y="-344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-38" value="frp-server" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-39" target="1fJOVmRQjtJDMx7JwJmx-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-39" value="frp-client" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-40" target="1fJOVmRQjtJDMx7JwJmx-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-44" value="反向代理，转发http请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#4277BB;" vertex="1" connectable="0" parent="1fJOVmRQjtJDMx7JwJmx-42">
+          <mxGeometry x="0.1833" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-40" value="nginx" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-48" target="1fJOVmRQjtJDMx7JwJmx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-48" value="https&lt;br&gt;http&lt;br&gt;websocket" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-49" target="1fJOVmRQjtJDMx7JwJmx-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-52" value="转发请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#4277BB;" vertex="1" connectable="0" parent="1fJOVmRQjtJDMx7JwJmx-51">
+          <mxGeometry x="0.0308" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-49" value="tcp&lt;br&gt;udp" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-53" target="1fJOVmRQjtJDMx7JwJmx-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-53" value="frp-client" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-68" target="1fJOVmRQjtJDMx7JwJmx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4277BB;" edge="1" parent="1" source="1fJOVmRQjtJDMx7JwJmx-68" target="1fJOVmRQjtJDMx7JwJmx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-68" value="办公电脑" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-1064" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-71" value="发送请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#4277BB;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1150" y="-974" as="geometry">
+            <mxPoint x="12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-72" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fJOVmRQjtJDMx7JwJmx-75" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-154" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
