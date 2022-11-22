@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T06:50:00.703Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="KEKNKKY53CEF_sCOCeC4" version="20.5.3" type="github"><diagram id="l9ATXhiv8Rob6Y_cUNgy" name="页-1">7Vpbc9o4FP41etiHML5gW360wSS7k2SY0nbTfXOwAm4MYoyA0F+/OrZ8i1Qw2wDuzE5nUulY1uU75/skHYPMweLtNg1X8wcakQQZWvSGzCEyDN20Nf4fWPa5xcF6bpilcSQaVYZJ/IMIo3hvtokjsm40ZJQmLF41jVO6XJIpa9jCNKW7ZrMXmjRHXYUzIhkm0zCRrX/HEZvnVmw4lf2OxLN5MbJuu/mTRVg0FitZz8OI7momM0DmIKWU5aXF24AkAF6BS/7e6CdPy4mlZMnavHD3Odk+/fX49UvyqN2/jm6f/nwIbuy8l22YbMSCxxxdMWG2L1BY7+JFEi55zZ/O4yS6D/d0A6OuWTh9LWp+StbcgeNiSvo700MIYaFxK38tZcLZBhjmNI1/0CULE9GiMkxgCNGbvGYBw5akjLzVTAKDW0IXhKV73kQ87Qt3iHg0RXVXOdfVhG1ec6yLhTEUATUre64w5wUB+wkuKCK95oPg0ximRJ4POULCUAbnoMtbI2bIEJX0vBBEhgQRChzkusj3UeBCAdsosJBrI3cAFp9bPAm9lG6WEYlEMO3mMSOTVTiFpzsuXxB2bJH8NNYOu699BFqNCNQ1RQhaMrz2udAttKyBroXwCGFe4IhayNdQMEL+ALkcVDsBrj+nvDSDEuCNOeT9rPEQYRMFfeSPkKeDhQu+NxKvY8zoK1mCXicxx5XPi0eX7Diw6MjFUPAd5Flx9IdqYAt5/WxgC0blM1a2cTWEhxAwngMrkTg1D1dQ5KKf5Dp2JDJWJI059CStXhpXJj+lLGQxXQolC5N4BuUpX2/2fEXXMTw3oEEPw3TDdcnidc5oU6u1zBraDre8JPHq67kDVLd7RjNGS77XYlS3jJ4iTHXzXHHqKsP0PeW1QRZZ3VBOxe5SbkCXkU7DlZAgET/hiCpN2ZzO6DJMgsrqVzoJ6FRt7ildieD7ThjbCwzDDaP/STuLudFNOiWHQlg05H6bkUMdGjhvCEs86KCUJJyj2+Yh7+P3LVXIYpBGNxMmzPXLysQSg4KCfNoQx6CaARfLmqC6oKa+le12Q+QZaqXzdVBrUDrep6fQRyHDgxayeI7NssCjNYPs5mmtJE9dhwwFoc63WWLlUYQ7xwvAt/wvh1w+nPwO6PZVKn9RdE3VUUQ+6NnADTc7OHDJd0fdRNdqoouda6OrCl3FBjohKV9kJzbQvgKzEtcLbaCqu4d8Oub67GW6iuG0WyQ5zhyS+FQ8cTMkLXztkDT7yh2S73782J/D7NrydUBxwVDsh1w4+qAOQbYZeo64e/wGjrm+VshCnCclOiQOjiIxoeOLioOpEgfpNnyJiHNORe9dHsxRXFUuLAXq+1330hCdSh/oTtv8gV7PH5zAy5MjSzd7TjN9YKmO7ZdOH5R5+IvehMlbzJ4y/C1R+1Z7MiwS4lllf5pjikvF0duzEKmjt+fiutqR23OZ268EQTecnsb/6Rk1+9lVC8O1OD8tHEn/wrruw2eSNF0kMQxCPebM9MSDRRxFeTTAx4zwOesv51e8ZNmyLR9Zw/auK2JRIlX5IUuMgurfilRk03qGqRkNtolaayeJvsewmKrjG72v6rXogL68rAmTfFxO8BfcLm+Yl+Dpks+6RlSofivICZWKqlmt4GoH+F2kJI5nx4xu8Vt19m+TC1MmBILsWpCdFzx1BHWE+uZHUf+G66BdHC8FS29+kfznp7d5HXp3gKZtt2GzWzQ1rf/1+CRHm60d3e+Wo+Ufg7RItXZHWYtA/RhltYrP4vtGTx0WVnwNnn40d/ptueNcizuz7fOY3tH0883D9vunyfY1/efxRr6qAHX4xQTr2echfqbJf4rgIz+QMTv8yy3liMp0Sf5tMagdiBxIffqjI0PyQvVDtDwgq5/zmcG/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-22T06:58:28.998Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jYtphmFm56M-XGGo1lkv" version="20.5.3" type="github">
+  <diagram id="l9ATXhiv8Rob6Y_cUNgy" name="页-1">
+    <mxGraphModel dx="1360" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-6" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="900" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-10" value="ERP web" style="swimlane;startSize=20;" parent="HTlvXJNVUlN0LkFGXIME-6" vertex="1">
+          <mxGeometry x="20" width="210" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-12" value="登陆喜鹊" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-10" vertex="1">
+          <mxGeometry x="45" y="100" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-27" value="参数：&lt;br&gt;鉴权信息（token clientid 喜鹊员工id)&lt;br&gt;头像&lt;br&gt;名称" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=0;align=center;position2=0.8;base=20;size=30;position=0.67;flipV=1;" parent="HTlvXJNVUlN0LkFGXIME-10" vertex="1">
+          <mxGeometry x="16.25" y="210" width="152.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-9" value="喜鹊 Client" style="swimlane;startSize=20;" parent="HTlvXJNVUlN0LkFGXIME-6" vertex="1">
+          <mxGeometry x="230" width="240" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HTlvXJNVUlN0LkFGXIME-9" source="HTlvXJNVUlN0LkFGXIME-19" target="HTlvXJNVUlN0LkFGXIME-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-19" value="进入三方授权页面&lt;br&gt;展示头像，名称" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-9" vertex="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-28" value="确认登陆" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-9" vertex="1">
+          <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-37" value="登陆成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-9" vertex="1">
+          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-8" value="喜鹊 Server" style="swimlane;startSize=20;" parent="HTlvXJNVUlN0LkFGXIME-6" vertex="1">
+          <mxGeometry x="470" width="250" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-22" value="参数验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-8" vertex="1">
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-34" value="获取员工信息&lt;br&gt;生产token" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-8" vertex="1">
+          <mxGeometry x="80" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-7" value="ERP Server" style="swimlane;startSize=20;" parent="HTlvXJNVUlN0LkFGXIME-6" vertex="1">
+          <mxGeometry x="720" width="180" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-32" value="鉴权" style="rounded=1;whiteSpace=wrap;html=1;" parent="HTlvXJNVUlN0LkFGXIME-7" vertex="1">
+          <mxGeometry x="30" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-39" value="参数：&lt;br&gt;鉴权信息（token clientid 喜鹊员工id)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=0;align=center;position2=0.17;base=20;size=30;position=0.17;flipV=0;" parent="HTlvXJNVUlN0LkFGXIME-7" vertex="1">
+          <mxGeometry x="13.75" y="440" width="152.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-12" target="HTlvXJNVUlN0LkFGXIME-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-21" value="127.0.0.1唤起喜鹊" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HTlvXJNVUlN0LkFGXIME-20" vertex="1" connectable="0">
+          <mxGeometry x="0.2302" y="2" relative="1" as="geometry">
+            <mxPoint x="-14" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-28" target="HTlvXJNVUlN0LkFGXIME-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-24" value="三方授权登陆接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HTlvXJNVUlN0LkFGXIME-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.1683" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-22" target="HTlvXJNVUlN0LkFGXIME-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-32" target="HTlvXJNVUlN0LkFGXIME-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-36" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HTlvXJNVUlN0LkFGXIME-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.1527" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-34" target="HTlvXJNVUlN0LkFGXIME-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gvbPoHorT-MvjRSvkrZN-1" value="流程图" parent="0" />
+        <mxCell id="gvbPoHorT-MvjRSvkrZN-39" value="连接线" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
