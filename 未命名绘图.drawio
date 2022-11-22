@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T03:51:17.960Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="mRsWrfp1jJjvNThzMfPX" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T03:53:00.749Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="d9bA-67Wuk52OSBAqRPF" version="20.5.3" type="github">
   <diagram id="l9ATXhiv8Rob6Y_cUNgy" name="页-1">
     <mxGraphModel dx="1360" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="HTlvXJNVUlN0LkFGXIME-32" value="鉴权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HTlvXJNVUlN0LkFGXIME-7">
           <mxGeometry x="40" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HTlvXJNVUlN0LkFGXIME-39" value="参数：&lt;br&gt;鉴权信息（token clientid 喜鹊员工id)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=0;align=center;position2=0.17;base=20;size=30;position=0.17;flipV=0;" vertex="1" parent="HTlvXJNVUlN0LkFGXIME-7">
+          <mxGeometry x="13.75" y="540" width="152.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HTlvXJNVUlN0LkFGXIME-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HTlvXJNVUlN0LkFGXIME-6" source="HTlvXJNVUlN0LkFGXIME-12" target="HTlvXJNVUlN0LkFGXIME-19">
           <mxGeometry relative="1" as="geometry" />
