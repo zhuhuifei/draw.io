@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T08:03:43.273Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-2r1kORge6Ys5Kei1Vhy" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T08:31:22.378Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kgvuLYT4_V9wELDH3gl7" version="20.8.13" type="github">
   <diagram name="第 1 页" id="m2Nv4it-5vYWjkUrnx_C">
     <mxGraphModel dx="2691" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
           <mxGeometry x="64" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-19" target="9yJDeuIBgiFLJVAhCD0K-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-19" target="9yJDeuIBgiFLJVAhCD0K-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-19" value="联调自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -247,7 +250,7 @@
           <mxGeometry x="-710" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-76" value="禅道填写评估报告&lt;br&gt;&lt;ol&gt;&lt;li&gt;模块拆分，模块对应的场景，模块作用&lt;/li&gt;&lt;li&gt;模块拆分成2-3周可完成，最长不能超过3周，超过4周的内容必须拆分成多个模块目标，保障每个月有2个版本上线&lt;/li&gt;&lt;li&gt;是否有需要调研的技术，调研方案&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="910" y="570" width="370" height="200" as="geometry" />
+          <mxGeometry x="900" y="700" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-77" target="9yJDeuIBgiFLJVAhCD0K-126">
           <mxGeometry relative="1" as="geometry" />
@@ -270,7 +273,7 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-83" target="9yJDeuIBgiFLJVAhCD0K-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-83" value="跟进测试人员测试进度反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-83" value="跟进测试人员测试进度反馈&lt;br&gt;核对发版资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-85" value="跟进发版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -336,8 +339,8 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-123" value="可提升项&lt;br&gt;1.代码检测，包含但不限于格式检测，注释检测，bug检测" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="827" y="2020" width="361" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-125" value="需要调整的内容&lt;br&gt;禅道流程&lt;br&gt;1.联调阶段由前端创建联调任务，维护截止时间，后端进入对接后创建子任务，结束时间和主任务保持一致&lt;br&gt;2.新增功能评估流程" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="910" y="95" width="370" height="200" as="geometry" />
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-125" value="&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;需要调整的内容&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;禅道流程&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;联调阶段由前端创建联调任务，维护截止时间，后端进入对接后创建子任务，结束时间和主任务保持一致&lt;/font&gt;&lt;/li&gt;&lt;li&gt;新增功能评估流程&lt;/li&gt;&lt;/ol&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;&lt;br&gt;开发流程细化&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;开发流程：&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;功能评估（验收功能评估报告）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;工期评估（验收工期评估报告）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;技术调研（验收技术调研结果，进行技术方案评审）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;代码开发&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;灰度和生产兼容性评估&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;接口自测（验收jemeter测试脚本）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;接口联调（跟进前端联调阻塞的反馈）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;联调自测&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;提测修改bug（跟进测试人员测试进度反馈）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;准备发版资料（核对发版资料）&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;size=0.12;" vertex="1" parent="1">
+          <mxGeometry x="900" y="50" width="390" height="370" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-126" target="9yJDeuIBgiFLJVAhCD0K-78">
           <mxGeometry relative="1" as="geometry" />
