@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T07:33:07.887Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4Uh_Qs8pKI-VE-n_WxHk" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T07:48:26.793Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="u4j6kpjsQrAdCibkiehd" version="20.8.13" type="github">
   <diagram name="第 1 页" id="m2Nv4it-5vYWjkUrnx_C">
     <mxGraphModel dx="2691" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-76" value="禅道填写评估报告&lt;br&gt;&lt;ol&gt;&lt;li&gt;模块拆分，模块对应的场景，模块作用&lt;/li&gt;&lt;li&gt;模块拆分成2-3周可完成，最长不能超过3周，超过4周的内容必须拆分成多个模块目标，保障每个月有2个版本上线&lt;/li&gt;&lt;li&gt;是否有需要调研的技术，调研方案&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="570" width="370" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-77" target="9yJDeuIBgiFLJVAhCD0K-78">
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-77" target="9yJDeuIBgiFLJVAhCD0K-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-77" value="验收工期评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -305,6 +305,9 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-110" target="9yJDeuIBgiFLJVAhCD0K-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-110" target="9yJDeuIBgiFLJVAhCD0K-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-110" value="技术调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -332,6 +335,15 @@
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-123" value="可提升项&lt;br&gt;1.代码检测，包含但不限于格式检测，注释检测，bug检测" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="827" y="1900" width="361" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-125" value="需要调整的内容&lt;br&gt;禅道流程&lt;br&gt;1.联调阶段由前端创建联调任务，维护截止时间，后端进入对接后创建子任务，结束时间和主任务保持一致&lt;br&gt;2.新增评估报告和" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="910" y="95" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-126" target="9yJDeuIBgiFLJVAhCD0K-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-126" value="验收技术&lt;br&gt;调研结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
