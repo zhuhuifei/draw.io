@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T02:14:28.160Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ACQKSs9rf1JpxB7UXuoi" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T02:22:08.784Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="B1jWBP_1kjw320P_EPDl" version="20.8.13" type="github">
   <diagram name="第 1 页" id="m2Nv4it-5vYWjkUrnx_C">
     <mxGraphModel dx="1372" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,10 +64,13 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-19" target="9yJDeuIBgiFLJVAhCD0K-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-19" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-19" value="联调自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-20" value="发版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-20" target="9yJDeuIBgiFLJVAhCD0K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-20" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yJDeuIBgiFLJVAhCD0K-22" target="9yJDeuIBgiFLJVAhCD0K-12">
@@ -106,8 +109,14 @@
         <mxCell id="9yJDeuIBgiFLJVAhCD0K-39" value="接口自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9yJDeuIBgiFLJVAhCD0K-42" value="自测标准：&lt;br&gt;1.接口至少有一套可以调通的数据，保障前端联调进度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-42" value="自测标准：&lt;br&gt;1.接口至少有一套可以调通的数据，保障前端联调进度，不用等待&lt;br&gt;2.接口jemmeter测试，达到测试标准" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="890" y="2130" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-43" value="联调自测标准：&lt;br&gt;1.业务流程和产品设计一致&lt;br&gt;2.新创建的一套数据可以完整走通流程" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2400" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9yJDeuIBgiFLJVAhCD0K-44" value="发版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
